@@ -2,7 +2,7 @@
 
 br=broker.hivemq.com
 
-mosquitto_sub -h $br -t /x00192532/lights/+ |
+mosquitto_sub -h $br -t /x00192532/smart_lights/# |
 while read line; do
     nowdate=$(date "+%Y-%m-%d %H:%M:%S")
     echo "$nowdate $line" >> logs
