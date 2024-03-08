@@ -1,0 +1,50 @@
+2024-03-08 22:26:54 system_control: DEACTIVATE lights at house 2
+2024-03-08 22:26:55 lights: OFF house 2
+2024-03-08 22:26:59 movement_detector: ACTIVE proximity sensor house 2
+2024-03-08 22:27:00 system_control: ACTIVATE lights at house 2
+2024-03-08 22:27:00 lights: ON house 2
+2024-03-08 22:27:03 movement_detector: INACTIVE proximity sensor house 2
+2024-03-08 22:27:03 system_control: DEACTIVATE lights at house 2
+2024-03-08 22:27:04 lights: OFF house 2
+2024-03-08 22:27:06 movement_detector: ACTIVE proximity sensor house 1
+2024-03-08 22:27:06 system_control: ACTIVATE lights at house 1
+2024-03-08 22:27:07 lights: ON house 1
+2024-03-08 22:27:10 movement_detector: INACTIVE proximity sensor house 1
+2024-03-08 22:27:11 system_control: DEACTIVATE lights at house 1
+2024-03-08 22:27:11 lights: OFF house 1
+2024-03-08 22:27:19 movement_detector: ACTIVE proximity sensor house 1
+2024-03-08 22:27:19 system_control: ACTIVATE lights at house 1
+2024-03-08 22:27:19 lights: ON house 1
+2024-03-08 22:27:23 movement_detector: INACTIVE proximity sensor house 1
+2024-03-08 22:27:23 system_control: DEACTIVATE lights at house 1
+2024-03-08 22:27:23 lights: OFF house 1
+2024-03-08 22:27:23 movement_detector: ACTIVE proximity sensor house 2
+2024-03-08 22:27:24 system_control: ACTIVATE lights at house 2
+2024-03-08 22:27:24 lights: ON house 2
+2024-03-08 22:27:27 movement_detector: INACTIVE proximity sensor house 2
+2024-03-08 22:27:28 system_control: DEACTIVATE lights at house 2
+2024-03-08 22:27:28 lights: OFF house 2
+2024-03-08 22:27:35 movement_detector: ACTIVE proximity sensor house 1
+2024-03-08 22:27:35 system_control: ACTIVATE lights at house 1
+2024-03-08 22:27:35 lights: ON house 1
+2024-03-08 22:27:47 movement_detector: INACTIVE proximity sensor house 1
+2024-03-08 22:27:47 system_control: DEACTIVATE lights at house 1
+2024-03-08 22:27:47 lights: OFF house 1
+2024-03-08 22:27:48 movement_detector: ACTIVE proximity sensor house 2
+2024-03-08 22:27:48 system_control: ACTIVATE lights at house 2
+2024-03-08 22:27:48 lights: ON house 2
+2024-03-08 22:27:52 movement_detector: INACTIVE proximity sensor house 2
+2024-03-08 22:27:52 system_control: DEACTIVATE lights at house 2
+2024-03-08 22:27:52 lights: OFF house 2
+2024-03-08 22:28:07 movement_detector: ACTIVE proximity sensor house 1
+2024-03-08 22:28:07 system_control: ACTIVATE lights at house 1
+2024-03-08 22:28:09 lights: ON house 1
+2024-03-08 22:28:12 movement_detector: INACTIVE proximity sensor house 1
+2024-03-08 22:28:12 system_control: DEACTIVATE lights at house 1
+2024-03-08 22:28:12 lights: OFF house 1
+2024-03-08 22:28:16 movement_detector: ACTIVE proximity sensor house 2
+2024-03-08 22:28:16 system_control: ACTIVATE lights at house 2
+2024-03-08 22:28:16 lights: ON house 2
+2024-03-08 22:28:20 movement_detector: INACTIVE proximity sensor house 2
+2024-03-08 22:28:20 system_control: DEACTIVATE lights at house 2
+2024-03-08 22:28:21 lights: OFF house 2
