@@ -19,5 +19,5 @@ while true; do
             status1=false
         fi
     fi
-    sleep 4
+    sleep 5
 done

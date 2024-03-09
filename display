@@ -1,1 +1,7 @@
-Hello World Kazik
+     [0;33mSmart Lights Dashboard[0m
+[0;34m-------------------------------[0m
+            [0;37mSensor      Light[0m
+[0;34m-------------------------------[0m
+  [1;36mHouse 1:[0m  [1;31mINACTIVE[0m     [1;31mOFF[0m
+  [1;36mHouse 2:[0m  [1;31mINACTIVE[0m     [1;31mOFF[0m
+[0;34m-------------------------------[0m

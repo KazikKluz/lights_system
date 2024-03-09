@@ -19,9 +19,11 @@ do
     fi
 done
 
-# while true
-# if fs fs  random divisive by 4
-# if on skip
+# mosquitto_pub -h broker.hivemq.com \
+#            -t /x00192532/smart_lights/movement_detection/house1 \
+#           -m "movement_detector: ACTIVE proximity sensor house 1"
 
+# mosquitto_pub -h $br -t /x00192532/smart_lights/light/$house_no \
+#    -m "lights: $1 state at house $house_no"
 
 # TODO make this connected to dashboard

@@ -3,5 +3,6 @@
 while true; do
     clear
     cat display
-    sleep 1
+    sleep 0.25
 done
+
